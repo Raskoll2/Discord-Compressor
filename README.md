@@ -10,7 +10,9 @@ Uses ffmpeg and python, that's why the exe is so big.
 ## Screenshots
 
 **The App Interface**
+
 ![Discord Compressor UI](images/app.png)
 
 **Right-Click Menu Integration**
+
 ![Right Click Menu](images/rightClick.png)
